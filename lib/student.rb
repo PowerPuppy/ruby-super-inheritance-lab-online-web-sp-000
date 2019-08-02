@@ -1,4 +1,8 @@
 class Student
-attr_accessor
+
+def hello
+  "Hey there! I'm so excited t learn stuff.\n"
+
+end
 
 end
