@@ -1,14 +1,11 @@
 class Student
 
-def initialize
-end
-
 def hello
-  "Hey there! I'm so excited t learn stuff.\n"
+  puts "Hey there! I'm so excited t learn stuff.\n"
 end
 
 def raise_hand
-  "Pick me!"
+  puts "Pick me!"
 end
 
 end
